@@ -4,7 +4,7 @@
 // ========================================================================
 
 /** 
- * Datenbank-Zugangsdaten in folgendem Format ausserhalb des Webroots gespeichert
+ * Datenbank-Zugangsdaten in folgendem Format ausserhalb des Webroots in die Datei workout-config.php speichern
  * $GLOBALS['db_host'] = '';
  * $GLOBALS['db_name'] = '';
  * $GLOBALS['db_user'] = '';
